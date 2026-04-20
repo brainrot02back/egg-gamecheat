@@ -30,7 +30,7 @@ DWORD GetProcessID(const wchar_t* processName) {
 
 int main() {
     const wchar_t* TARGET_PROCESS = L"Egg.exe";
-    uintptr_t TARGET_ADDRESS = 0x19E18C6DE00;
+    uintptr_t TARGET_ADDRESS = 0x19E18C6DE00; //this offset is dynamic meaning you will have to change it by scanning for it with cheatengine or any other tool
 
    
     std::cout << "         EGG CHEAT       \n";
