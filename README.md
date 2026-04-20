@@ -6,8 +6,7 @@ to write to process memory
 
 ### simple rundown 
 works by writing to the egg counter offset and allows you to change the offset value very simple
-idk if the egg counter offset is dyn or not so yeah!
-
+the egg counter offset is dynamic so yeah im not updating ill drop a how to update even if like anyone with a brain should know how to
 # showcase
 
 ![Egg](egg.png)
