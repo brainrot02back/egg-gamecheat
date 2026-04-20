@@ -6,6 +6,7 @@ to write to process memory
 
 ### simple rundown 
 works by writing to the egg counter offset and allows you to change the offset value very simple
+idk if the egg counter offset is dyn or not so yeah!
 
 # showcase
 
