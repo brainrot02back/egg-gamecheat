@@ -1,12 +1,11 @@
 # egg-gamecheat
-i was bored
-
-## i use ntdll.dll 
-to write to process memory
+i was bored (so was i while updating this sir)
 
 ### simple rundown 
-works by writing to the egg counter offset and allows you to change the offset value very simple
-the egg counter offset is dynamic so yeah im not updating ill drop a how to update even if like anyone with a brain should know how to
+using ntdll to write memory because brainrot said so
+automatically finds the offset in memory by scanning for the current number of eggs in memory and then narrowing it down to one address
+then we write to the games egg counter and viola now we have 676767 eggs
+
 # showcase
 
-![Egg](egg.png)
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/8bc615c2-6374-46fb-938d-2308f3353906" />
